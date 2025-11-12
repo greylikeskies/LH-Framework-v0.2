@@ -23,37 +23,11 @@ If you use the L/H Framework in academic work or software, please cite:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17589521.svg)](https://doi.org/10.5281/zenodo.17589521)
 
 
-# L/H Framework — 3-D Sphere Test
-+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17589521.svg)](https://doi.org/10.5281/zenodo.17589521)
+## Documentation
 
-A demonstration of the **L/H Framework** extended into full 3-D harmonic form.
-This test shows single-pass Laplacian motion alignment and energy conservation
-across volumetric arrays (spherical and ellipsoidal examples).
+The full operational specification and derivation notes are available here:
 
----
+📄 [L/H Operational Spec V0.2 (PDF)](docs/Lh_Operational_Spec_V0.2.pdf)
 
-## Overview
-The L/H Framework operates on arrays `A(x)` in harmonic equilibrium satisfying:
-
-\[
-\nabla^2 A = 0
-\]
-
-For two arrays \( A, B \), the displacement field is recovered by a single Laplacian inversion:
-
-\[
-Δφ = ∇·(ΔI·g)/(‖g‖² + λ)
-\]
-
-and the warp is applied as:
-
-\[
-u(x) = ∇φ(x), \quad Â(x) = A(x + u(x))
-\]
-
----
-
-## Usage
-
-```bash
-python LH_3D_Sphere_Volume_Laplacian_Test.py
+or view it directly on Zenodo:  
+🔗 [https://doi.org/10.5281/zenodo.17589521](https://doi.org/10.5281/zenodo.17589521)
