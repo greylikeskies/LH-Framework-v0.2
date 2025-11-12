@@ -11,3 +11,27 @@ Commercial entities may obtain a proprietary license from:
 > [@JeffBoylan@proton.me]
 
 If you use this code under the GPL, you must comply with its terms.
+
+
+
+L/H Framework — Commercial License
+Version 1.0 — 2025-11-12
+
+Licensor: Jeff Boylan
+Contact: jeffboylan (at) protonmail (dot) com
+Coverage: The “Software” includes source code in this repository.
+
+Grant: Non-exclusive, non-transferable, royalty-bearing license to use,
+modify, and distribute the Software in object/binary form within your products,
+without any copyleft obligations.
+
+Restrictions: No sublicensing (except to your contractors for your product),
+no trademark rights, no reverse-licensing to third parties.
+
+Term: Per the commercial agreement; terminates on breach. Upon termination,
+you must cease distribution under this license or relicense under GPL-3.0-only.
+
+Indemnity & Liability: Provided “AS IS”, no warranties; liability limited
+to fees paid in the previous 12 months.
+
+This file summarizes key terms. The executed order form / agreement controls.
